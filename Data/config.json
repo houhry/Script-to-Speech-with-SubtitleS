@@ -1,0 +1,12 @@
+{
+  "SPEAKERS":{
+    "SPEAKER_1": {
+      "NAME_SHORT": "#S1#",
+      "ACT":"#SPEAKER##1##LANGUAGE##zh-cn##SPEAKER_NAME##发言人 1: #"
+    },
+    "SPEAKER_2": {
+      "NAME_SHORT": "#S2#",
+      "ACT": "#SPEAKER##2##LANGUAGE##zh-cn##SPEAKER_NAME##发言人 2: #"
+    }
+  }
+}
